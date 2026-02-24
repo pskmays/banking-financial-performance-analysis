@@ -46,8 +46,12 @@ The structured format allows for budget vs. actual analysis, cost center perform
 To facilitate data management and analysis, a SQL database has been created to store the dataset. SQL provides a robust and efficient way to query and manipulate the data. The database schema has been designed to ensure proper organization and ease of use. The structure of the database enables seamless integration with various data visualization tools.
 
 ## Data Processing
-The data obtained from the U.S. government website might require some preprocessing to clean and transform it into a suitable format for analysis. SQL queries have been utilized to clean, filter, and transform the data as necessary. This ensures that the data used for the dashboard is accurate and reliable.
-![Quick Summary table](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services/assets/66141195/c897f5c5-e4ce-446f-8944-c0c0376fcee9)
+
+The data was loaded into a relational MySQL database and validated for structure and integrity. SQL queries were used to explore table relationships, filter records, create calculated fields, and generate aggregated financial metrics.
+
+The cleaned and structured data were then connected to Excel using Power Query, where additional transformations (data type corrections, formatting, and relationship modeling) were applied to ensure accurate and reliable financial reporting.
+
+![Quick Summary table]()
 
 
 
@@ -81,11 +85,9 @@ The data obtained from the U.S. government website might require some preprocess
 A substantial portion of revenue comes from the Northeast region of the U.S., which not only generates the highest revenue but also has the largest customer base among all five regions. Given its significance, marketing strategies should prioritize the Northeast to maximize impact. HQ Procurement Vendor Management ranks first among over-budget cost centers and second in total expenses, indicating both high spending levels and budget variance. I am suggesting the need for closer budget monitoring and expense control.
 
 ## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
+- <ins><b>©2026 Kenye Mays. All rights reserved</b></ins>
 - <b>[LinkedIn](https://www.linkedin.com/in/kenye-mays/?skipRedirect=true)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
 - <b>[My Website](https://pskmays.github.io/portfolio/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
 
 ## Contact me!
 
