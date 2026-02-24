@@ -46,8 +46,7 @@ banking_financial_performance/
     ├── Department_B&E_Analysis.png     # Dashboard visual: Departments
     ├── Regional_B&E_Analysis.png       # Dashboard visual: Regional Analysis
     └── Summary_Dashboard.png           # Overview dashboard screenshot
-
---------
+```
 
 
 
@@ -66,7 +65,7 @@ The data was loaded into a relational MySQL database and validated for structure
 
 The cleaned and structured data were then connected to Excel using Power Query, where additional transformations (data type corrections, formatting, and relationship modeling) were applied to ensure accurate and reliable financial reporting.
 
-![Quick Summary table]()
+![Quick Summary table](./documentation/Quick_Summary_Table.png)
 
 
 
