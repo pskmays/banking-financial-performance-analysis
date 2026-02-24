@@ -1,0 +1,22 @@
+Category_ID,Category_Name,Category_Group,GL_Account_Code,UsageRule
+C001,Salaries & Payroll,People Costs,5100,Common: can be used with any cost center
+C002,Benefits & Payroll Taxes,People Costs,5200,Common: can be used with any cost center
+C003,Branch Rent & Leases,Facilities,6100,Common: can be used with any cost center
+C004,Utilities,Facilities,6150,Common: can be used with any cost center
+C005,Security Services & Monitoring,Facilities,6200,Common: can be used with any cost center
+C006,Software Licenses & Subscriptions,Technology,7100,Common: can be used with any cost center
+C007,Hardware & Equipment,Technology,7200,Common: can be used with any cost center
+C008,Professional Services (Legal/Consulting),Professional Services,8100,Common: can be used with any cost center
+C009,Regulatory & Compliance Fees,Risk & Governance,8300,Common: can be used with any cost center
+C010,Marketing & Community Outreach,Sales & Marketing,9100,Common: can be used with any cost center
+C011,"Training, Travel & Conferences",Operating Expenses,9400,Common: can be used with any cost center
+C012,Office Supplies & Admin,Operating Expenses,9500,Common: can be used with any cost center
+C901,Corporate Overhead - Corporate Operations,Corporate Overhead (HQ Only),9900100,HQ-only: use only with CostCenterType='HQ' and Department_ID='D001'
+C902,Corporate Overhead - Marketing & Advertising,Corporate Overhead (HQ Only),9900200,HQ-only: use only with CostCenterType='HQ' and Department_ID='D002'
+C903,Corporate Overhead - Information Technology,Corporate Overhead (HQ Only),9900300,HQ-only: use only with CostCenterType='HQ' and Department_ID='D003'
+C904,Corporate Overhead - Human Resources,Corporate Overhead (HQ Only),9900400,HQ-only: use only with CostCenterType='HQ' and Department_ID='D004'
+C905,Corporate Overhead - Loans and Credit,Corporate Overhead (HQ Only),9900500,HQ-only: use only with CostCenterType='HQ' and Department_ID='D005'
+C906,Corporate Overhead - Finance & Accounting,Corporate Overhead (HQ Only),9900600,HQ-only: use only with CostCenterType='HQ' and Department_ID='D006'
+C907,Corporate Overhead - Compliance & Audit,Corporate Overhead (HQ Only),9900700,HQ-only: use only with CostCenterType='HQ' and Department_ID='D007'
+C908,Corporate Overhead - Procurement & Vendor Management,Corporate Overhead (HQ Only),9900800,HQ-only: use only with CostCenterType='HQ' and Department_ID='D008'
+C909,Corporate Overhead - Branch Operations,Corporate Overhead (HQ Only),9901000,HQ-only: use only with CostCenterType='HQ' and Department_ID='D010'

@@ -1,0 +1,44 @@
+CostCenterCode,CostCenterName,CostCenterType,Department_ID,BranchID
+CC-B001,Chicago IL Branch Operations,Branch,D010,B001
+CC-B002,Dixon IL Branch Operations,Branch,D010,B002
+CC-B003,Lombard IL Branch Operations,Branch,D010,B003
+CC-B004,Deerfield IL Branch Operations,Branch,D010,B004
+CC-B005,Rockford IL Branch Operations,Branch,D010,B005
+CC-B006,Champaign IL Branch Operations,Branch,D010,B006
+CC-B007,Peoria IL Branch Operations,Branch,D010,B007
+CC-B008,Oak Brook IL Branch Operations,Branch,D010,B008
+CC-B009,Aurora IL Branch Operations,Branch,D010,B009
+CC-B010,Naperville IL Branch Operations,Branch,D010,B010
+CC-B011,Birmingham AL Branch Operations,Branch,D010,B011
+CC-B012,Little Rock AR Branch Operations,Branch,D010,B012
+CC-B013,Los Angeles CA Branch Operations,Branch,D010,B013
+CC-B014,New Haven CT Branch Operations,Branch,D010,B014
+CC-B015,Tampa FL Branch Operations,Branch,D010,B015
+CC-B016,Atlanta GA Branch Operations,Branch,D010,B016
+CC-B017,Des Moines IA Branch Operations,Branch,D010,B017
+CC-B018,Indianapolis IN Branch Operations,Branch,D010,B018
+CC-B019,Lexington KY Branch Operations,Branch,D010,B019
+CC-B020,Boston MA Branch Operations,Branch,D010,B020
+CC-B021,Baltimore MD Branch Operations,Branch,D010,B021
+CC-B022,Detroit MI Branch Operations,Branch,D010,B022
+CC-B023,Minneapolis MN Branch Operations,Branch,D010,B023
+CC-B024,Jackson MS Branch Operations,Branch,D010,B024
+CC-B025,Missoula MT Branch Operations,Branch,D010,B025
+CC-B026,Charlotte NC Branch Operations,Branch,D010,B026
+CC-B027,Newark NJ Branch Operations,Branch,D010,B027
+CC-B028,New York NY Branch Operations,Branch,D010,B028
+CC-B029,Columbus OH Branch Operations,Branch,D010,B029
+CC-B030,Philadelphia PA Branch Operations,Branch,D010,B030
+CC-B031,Charleston SC Branch Operations,Branch,D010,B031
+CC-B032,Austin TX Branch Operations,Branch,D010,B032
+CC-B033,Richmond VA Branch Operations,Branch,D010,B033
+CC-B034,Seattle WA Branch Operations,Branch,D010,B034
+CC-B035,Madison WI Branch Operations,Branch,D010,B035
+CC-HQ-D001,HQ Corporate Operations,HQ,D001,CH001
+CC-HQ-D002,HQ Marketing & Advertising,HQ,D002,CH001
+CC-HQ-D003,HQ Information Technology,HQ,D003,CH001
+CC-HQ-D004,HQ Human Resources,HQ,D004,CH001
+CC-HQ-D005,HQ Loans and Credit,HQ,D005,CH001
+CC-HQ-D006,HQ Finance & Accounting,HQ,D006,CH001
+CC-HQ-D007,HQ Compliance & Audit,HQ,D007,CH001
+CC-HQ-D008,HQ Procurement & Vendor Management,HQ,D008,CH001

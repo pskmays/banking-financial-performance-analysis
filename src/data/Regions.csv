@@ -1,0 +1,7 @@
+RegionID,RegionName,PrimaryHubCity
+R01,Midwest,"Chicago, IL"
+R02,Northeast,"New York, NY"
+R03,Southeast,"Atlanta, GA"
+R04,South Central,"Austin, TX"
+R05,West,"Seattle, WA"
+R06,Canada,"Calgary, AB"
