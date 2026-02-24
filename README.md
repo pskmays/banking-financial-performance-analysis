@@ -9,7 +9,7 @@
 ## Overview
 This project simulates a real-world financial analytics engagement for a regional banking corporation. The executive leadership team required visibility into branch performance, departmental spending, cost center variance, and overall budget utilization.
 
-I designed and queried a relational database in MySQL to explore financial and operational data across 12 interrelated tables. After validating relationships and extracting key metrics using SQL, I connected Excel directly to the database using Power Query to clean, transform, and model the data.
+I designed and queried a MySQL relational database to explore financial and operational data across 12 interrelated tables. After validating relationships and extracting key metrics using SQL, I connected Excel directly to the database using Power Query to clean, transform, and model the data.
 
 The final deliverable was an executive-ready Excel dashboard highlighting budget vs. actual performance, departmental breakdowns, regional trends, and over-budget cost centers.
 
@@ -47,44 +47,46 @@ To facilitate data management and analysis, a SQL database has been created to s
 
 ## Data Processing
 The data obtained from the U.S. government website might require some preprocessing to clean and transform it into a suitable format for analysis. SQL queries have been utilized to clean, filter, and transform the data as necessary. This ensures that the data used for the dashboard is accurate and reliable.
-![NAICS](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services/assets/66141195/c897f5c5-e4ce-446f-8944-c0c0376fcee9)
+![Quick Summary table](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services/assets/66141195/c897f5c5-e4ce-446f-8944-c0c0376fcee9)
 
 
 
 ## Project includes:
 
-**Overview:** A summary of key performance indicators, such as total sales, top-performing categories, and regional distribution of sales.
+**Overview:** A leadership-focused dashboard summarizing total budget, total actual expenditures, budget variance (amount and %), and overall budget utilization.
 
-**Sales by NAICS Code:** Visual representations of sales figures for various NAICS codes, allowing users to identify the most significant contributors to overall sales.
+**Budget vs. Expenditure Analysis:** Departmental and cost center breakdowns highlighting over-budget areas and spending efficiency.
 
-**Sales by Category:** Graphs and charts illustrating sales for different categories within Retail and Food Services.
+**Regional Financial Analysis:** Comparisons of financial performance across regions and branches.
 
-**Geographical Analysis:** Maps and charts showing sales distribution across different regions of the U.S.A.
+**Cost Center Performance:** Identification of the top over-budget cost centers and high-spend vendors.
 
-**Time Series Analysis:** Trends and seasonal patterns in sales data, helping users to identify patterns over time.
+**Trend Analysis:** Monthly expenditure trends to identify spending patterns over time.
+**Data Modeling & Relationships:**Structured relational database design and Excel Data Model relationships to ensure accurate financial reporting.
 
-**Filtering and Interactivity:** Interactive elements allowing users to filter data based on specific criteria and perform ad-hoc analysis.
+**Filtering and Interactivity:** PivotTables and slicers enabling dynamic financial analysis and drill-down capabilities.
 
 ## Technologies Used
 **SQL:** For data extraction, transformation, and loading into the database.
 
-**Database Management System:** PostgreSQL to host and manage the dataset.
-
+**Database Management System:** MySQL Workbench to host and manage the dataset.
 
 **Programming Languages:**  SQL for data processing and scripting.
 
+**Excel:** Power Query for data cleaning and transformation, Data Model for relationship management, and dashboard development for executive reporting.
 
 
-**Conclusion**
-The Sales for Retail and Food Services in U.S.A. project provides a comprehensive analysis of sales data within the Retail and Food Services sectors. The use of SQL and data from the U.S. government website ensures data accuracy and reliability. The interactive dashboard offers a user-friendly interface to explore the data visually and gain valuable insights. This project is valuable for businesses, policymakers, and researchers looking to understand and leverage sales trends in the U.S.A.
+
+**Executive Summary**
+A substantial portion of revenue comes from the Northeast region of the U.S., which not only generates the highest revenue but also has the largest customer base among all five regions. Given its significance, marketing strategies should prioritize the Northeast to maximize impact. HQ Procurement Vendor Management ranks first among over-budget cost centers and second in total expenses, indicating both high spending levels and budget variance. I am suggesting the need for closer budget monitoring and expense control.
 
 ## Author
 - <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
+- <b>[LinkedIn](https://www.linkedin.com/in/kenye-mays/?skipRedirect=true)</b>
 - <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
+- <b>[My Website](https://pskmays.github.io/portfolio/)</b>
 - <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
 
 ## Contact me!
 
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
+If you have any questions, suggestions, or want to say hello, you can reach out to me at [Kenye Mays](mailto:kenyemays00@gmail.com). I would love to hear from you!
