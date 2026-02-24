@@ -15,13 +15,17 @@ The final deliverable was an executive-ready Excel dashboard highlighting budget
 
 ## [Reports](https://github.com/pskmays/banking-financial-performance-analysis/tree/main/visuals)
 
-<img src="visuals/Summary_Dashboard.png" width="800">
+### Executive Overview
+<img src="visuals/Summary_Dashboard.png" width="850">
 
-<img src="visuals/Department_B&E_Analysis.png" width="800">
+### Department Budget vs Expenditure
+<img src="visuals/Department_B&E_Analysis.png" width="850">
 
-<img src="visuals/Regional_B&E_Analysis.png" width="800">
+### Regional Financial Performance
+<img src="visuals/Regional_B&E_Analysis.png" width="850">
 
-<img src="visuals/Cost_Center_B&E_Analysis.png" width="800">
+### Cost Center Variance Analysis
+<img src="visuals/Cost_Center_B&E_Analysis.png" width="850">
 ## Project Structure
 
 ```text
