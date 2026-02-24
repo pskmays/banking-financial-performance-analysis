@@ -13,7 +13,15 @@ I designed and queried a MySQL relational database to explore financial and oper
 
 The final deliverable was an executive-ready Excel dashboard highlighting budget vs. actual performance, departmental breakdowns, regional trends, and over-budget cost centers.
 
-## [Reports](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services/tree/main/reports)
+## [Reports](https://github.com/pskmays/banking-financial-performance-analysis/tree/main/visuals)
+
+<img src="visuals/Summary_Dashboard.png" width="800">
+
+<img src="visuals/Department_B&E_Analysis.png" width="800">
+
+<img src="visuals/Regional_B&E_Analysis.png" width="800">
+
+<img src="visuals/Cost_Center_B&E_Analysis.png" width="800">
 ## Project Structure
 
 ```text
