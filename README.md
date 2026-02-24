@@ -1,9 +1,13 @@
 # Banking Financial Performance Analysis(MySQL + Excel)
+[![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0057b7?style=for-the-badge)](#)
+[![ETL](https://img.shields.io/badge/ETL-1e88e5?style=for-the-badge)](#)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Microsoft Power Query](https://img.shields.io/badge/Microsoft%20Power%20Query-00B386?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](#)
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-3949ab?style=for-the-badge)](#)
+[![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-00897b?style=for-the-badge)](#)
+[![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-d81b60?style=for-the-badge)](#)
+
 
 
 ## Overview
