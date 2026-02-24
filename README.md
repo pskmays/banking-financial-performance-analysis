@@ -16,21 +16,34 @@ The final deliverable was an executive-ready Excel dashboard highlighting budget
 ## [Reports](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services/tree/main/reports)
 ## Project Structure
 
+├── documentation
+│   └── Data_Model.png
+├── excel
+│   └── Financial_Dashboard.xlsx
 ├── LICENSE
-├── README.md          <- README .
-├── query              <- Code of the DB creation and queries.
-│   │
-│   └── retail_sales_tables_db.sql       <- DB creation.
-│   └── analysis.sql                     <- Final queries.
-│   └── query_data                       <- Final queries data.
-├── reports            <- Folder containing the final reports/results of this project.
-│   │
-│   └── query_report.docx        <- Final analysis report Document.
-│   └── query_report.pdf         <- Final query report in PDF for verifying data.
-│   
-├── src                <- Source for this project.
-    │
-    ├── data           <- Datasets used and collected for this project.
+├── README.md
+├── sql
+│   ├── banking_financials_db.sql
+│   └── banking_financials_exploration_queries.sql
+├── src
+│   └── data
+│       ├── Branches.csv
+│       ├── BudgetCategories.csv
+│       ├── Budgets.csv
+│       ├── CostCenters.csv
+│       ├── customers.csv
+│       ├── Departments.csv
+│       ├── Employees.csv
+│       ├── Expenditures.csv
+│       ├── loanapplications.csv
+│       ├── Regions.csv
+│       ├── RegionsStates.csv
+│       └── transactions.csv
+└── visuals
+    ├── Cost_Center_B&E_Analysis.png
+    ├── Department_B&E_Analysis.png
+    ├── Regional_B&E_Analysis.png
+    └── Summary_Dashboard.png
 
 --------
 
