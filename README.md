@@ -26,6 +26,7 @@ The final deliverable was an executive-ready Excel dashboard highlighting budget
 
 ### Cost Center Variance Analysis
 <img src="visuals/Cost_Center_B&E_Analysis.png" width="850">
+
 ## Project Structure
 
 ```text
