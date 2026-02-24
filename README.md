@@ -16,34 +16,21 @@ The final deliverable was an executive-ready Excel dashboard highlighting budget
 ## [Reports](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services/tree/main/reports)
 ## Project Structure
 
-├── documentation
-│   └── Data_Model.png                 # Excel/Power Pivot relationships diagram
-├── excel
-│   └── Financial_Dashboard.xlsx       # Executive-ready dashboard
-├── LICENSE                             # Open source or portfolio license
-├── README.md                            # Project description, instructions, overview
-├── sql
-│   ├── banking_financials_db.sql       # Schema creation & table definitions
-│   └── banking_financials_exploration_queries.sql   # SQL queries & insights
-├── src
-│   └── data
-│       ├── Branches.csv
-│       ├── BudgetCategories.csv
-│       ├── Budgets.csv
-│       ├── CostCenters.csv
-│       ├── customers.csv
-│       ├── Departments.csv
-│       ├── Employees.csv
-│       ├── Expenditures.csv
-│       ├── loanapplications.csv
-│       ├── Regions.csv
-│       ├── RegionsStates.csv
-│       └── transactions.csv           # Raw CSVs (or sample/sanitized data)
-└── visuals
-    ├── Cost_Center_B&E_Analysis.png    # Dashboard visual: Cost Centers
-    ├── Department_B&E_Analysis.png     # Dashboard visual: Departments
-    ├── Regional_B&E_Analysis.png       # Dashboard visual: Regional Analysis
-    └── Summary_Dashboard.png           # Overview dashboard screenshot
+├── LICENSE
+├── README.md          <- README .
+├── query              <- Code of the DB creation and queries.
+│   │
+│   └── retail_sales_tables_db.sql       <- DB creation.
+│   └── analysis.sql                     <- Final queries.
+│   └── query_data                       <- Final queries data.
+├── reports            <- Folder containing the final reports/results of this project.
+│   │
+│   └── query_report.docx        <- Final analysis report Document.
+│   └── query_report.pdf         <- Final query report in PDF for verifying data.
+│   
+├── src                <- Source for this project.
+    │
+    ├── data           <- Datasets used and collected for this project.
 
 --------
 
