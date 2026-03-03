@@ -9,7 +9,7 @@
 [![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-d81b60?style=for-the-badge)](#)
 
 ----
-## 📌 Table of Contents
+##  Table of Contents
 
 1. [Overview](#overview)
 2. [Reports](#reports)
