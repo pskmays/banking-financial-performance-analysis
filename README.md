@@ -8,7 +8,25 @@
 [![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-00897b?style=for-the-badge)](#)
 [![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-d81b60?style=for-the-badge)](#)
 
+----
+## 📌 Table of Contents
 
+1. [Overview](#overview)
+2. [Reports](#reports)
+   - [Executive Overview](#executive-overview)
+   - [Department Budget vs Expenditure](#department-budget-vs-expenditure)
+   - [Regional Financial Performance](#regional-financial-performance)
+   - [Cost Center Variance Analysis](#cost-center-variance-analysis)
+3. [Project Structure](#project-structure)
+4. [Dataset](#dataset)
+5. [Database](#database)
+6. [Data Processing](#data-processing)
+7. [Project Includes](#project-includes)
+8. [Technologies Used](#technologies-used)
+9. [Executive Summary](#executive-summary)
+10. [Author](#author)
+
+----
 
 ## Overview
 This project simulates a real-world financial analytics engagement for a regional banking corporation. The executive leadership team required visibility into branch performance, departmental spending, cost center variance, and overall budget utilization.
