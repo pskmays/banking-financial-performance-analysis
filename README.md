@@ -112,7 +112,7 @@ The cleaned and structured data were then connected to Excel using Power Query, 
 
 
 
-**Executive Summary**
+## Executive Summary
 A substantial portion of revenue comes from the Northeast region of the U.S., which not only generates the highest revenue but also has the largest customer base among all five regions. Given its significance, marketing strategies should prioritize the Northeast to maximize impact. HQ Procurement Vendor Management ranks first among over-budget cost centers and second in total expenses, indicating both high spending levels and budget variance. I am suggesting the need for closer budget monitoring and expense control.
 
 ## Author
