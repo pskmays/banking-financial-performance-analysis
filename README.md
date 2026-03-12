@@ -115,7 +115,8 @@ The cleaned and structured data were then connected to Excel using Power Query, 
 **Cost Center Performance:** Identification of the top over-budget cost centers and high-spend vendors.
 
 **Trend Analysis:** Monthly expenditure trends to identify spending patterns over time.
-**Data Modeling & Relationships:**Structured relational database design and Excel Data Model relationships to ensure accurate financial reporting.
+
+**Data Modeling & Relationships:** Structured relational database design and Excel Data Model relationships to ensure accurate financial reporting.
 
 **Filtering and Interactivity:** PivotTables and slicers enabling dynamic financial analysis and drill-down capabilities.
 
